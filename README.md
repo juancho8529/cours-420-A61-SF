@@ -1,3 +1,0 @@
-# cours-420-A61-SF
-Cegep Sainte-foy. 420-A61-SF PRÉPARATION DE LA SOLUTION D'IA POUR LA MISE EN PRODUCTION groupe 10000
-Juan David Chicangana Munoz.
