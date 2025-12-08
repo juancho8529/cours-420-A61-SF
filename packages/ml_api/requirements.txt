@@ -1,0 +1,13 @@
+# api
+# flask==1.0.2
+# Jinja2<3.1
+
+Flask==1.1.2
+Werkzeug==1.0.1
+Jinja2==3.0.3
+itsdangerous==1.1.0
+
+
+# local regression_model package
+# update with your local path
+-e "/home/juancho8529/TP-1/cours-420-A61-SF/packages/regression_model_tp8"
